@@ -70,3 +70,13 @@ if ($response === FALSE) {
     file_put_contents($outputFile, $response);
     echo 'The audio file has been saved as ' . $outputFile;
 }
+```
+
+## Troubleshooting
+
+    No response from API: Ensure that the URL and API key are correct. Also, check your internet connection.
+    File Not Saved: Verify that your PHP environment has the necessary permissions to write files.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.

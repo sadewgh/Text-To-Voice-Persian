@@ -15,6 +15,10 @@ Before running the script, make sure you have:
 2. **Internet Access**: The script sends requests to an external API, so make sure your environment has internet access.
 3. **Valid API Key**: You will need a valid API key to use the voice synthesis API.
 
+## Get Api Key
+
+1.  Signup in " Tr-x.ir "
+   
 ## Installation
 
 1. **Clone the repository**:
@@ -74,9 +78,9 @@ if ($response === FALSE) {
 
 ## Troubleshooting
 
-    No response from API: Ensure that the URL and API key are correct. Also, check your internet connection.
-    File Not Saved: Verify that your PHP environment has the necessary permissions to write files.
+   - No response from API: Ensure that the URL and API key are correct. Also, check your internet connection.
+   - File Not Saved: Verify that your PHP environment has the necessary permissions to write files.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
